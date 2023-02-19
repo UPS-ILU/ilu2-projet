@@ -9,7 +9,7 @@
 - [ ] B11
 - [ ] B12
 
-### Vidéo pour le rendu en ILU1
+### Vidéo pour le rendu en ILU2
 
 Lien :
 
